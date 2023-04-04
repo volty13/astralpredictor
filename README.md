@@ -1,0 +1,2 @@
+# astralpredictor
+Predictor for Bloxflip.
