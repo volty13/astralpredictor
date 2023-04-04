@@ -1,6 +1,6 @@
 # Astral Predictor 💫
 
-Astral Predictor for Bloxflip 🎰
+Astral Predictor for Bloxflip and Stake 🎰
 
 
 ## Links
