@@ -1,7 +1,6 @@
+# Astral Predictor Files 💫
 
-# Astral Predictor 💫
-
-Predictor for Bloxflip 🎰
+Files for Astral Predictor 🎰
 
 
 ## Links
@@ -13,6 +12,7 @@ Predictor for Bloxflip 🎰
 - ➡️ Mines Predictor / Tower Predictor
 - ➡️ Grid with Safe Tiles (🟢), Semi Safe Tiles (🟡), Not Predicted Tiles (🔴), Possible Bomb Tiles (💣)
 - ➡️ Mines prediction up to 4 with up to 85% accuracy
+- ➡️ Tower prediction up to 6 with up to 80% accuracy
 - ➡️ Simple to use and Minimalistic Interface
 
 
