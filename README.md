@@ -14,6 +14,7 @@ Files for Astral Predictor 🎰
 - ➡️ Mines prediction up to 4 with up to 85% accuracy
 - ➡️ Tower prediction up to 6 with up to 80% accuracy
 - ➡️ Simple to use and Minimalistic Interface
+- ➡️ Private Prediction Rooms
 
 
 ![Logo](https://cdn.discordapp.com/attachments/1043146355079663650/1092816884061188246/Bez_nazvus.png)
