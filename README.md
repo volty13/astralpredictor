@@ -1,6 +1,6 @@
-# Astral Predictor Files 💫
+# Astral Predictor 💫
 
-Files for Astral Predictor 🎰
+Astral Predictor for Bloxflip 🎰
 
 
 ## Links
