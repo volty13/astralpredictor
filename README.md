@@ -1,5 +1,5 @@
 
-# Astral Predictor
+# Astral Predictor 💫
 
 Predictor for Bloxflip 🎰
 
