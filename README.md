@@ -5,16 +5,17 @@ Astral Predictor for Bloxflip and Stake 🎰
 
 ## Links
 
- - [Discord](https://discord.gg/QMKVQGqeZs)
+ - [Discord](https://discord.gg/astralpredictor)
 
 ## Features
 
-- ➡️ Mines Predictor / Tower Predictor
-- ➡️ Grid with Safe Tiles (🟢), Semi Safe Tiles (🟡), Not Predicted Tiles (🔴), Possible Bomb Tiles (💣)
-- ➡️ Mines prediction up to 4 with up to 85% accuracy
-- ➡️ Tower prediction up to 6 with up to 80% accuracy
+- ➡️ Mines Predictor / Tower Predictor (X)
+- ➡️ Custom made Grid with Safe Tiles (🟢), Non Predicted Tiles (🔴), Possible Bomb Tiles (💣)
+- ➡️ Mines prediction up to 4 with up to 95% accuracy
+- ➡️ Tower prediction up to 6 with up to 75% accuracy (X)
 - ➡️ Simple to use and Minimalistic Interface
+- ➡️ Fast Support
 - ➡️ Private Prediction Rooms
 
 
-![Logo](https://cdn.discordapp.com/attachments/1043146355079663650/1092816884061188246/Bez_nazvus.png)
+![Logo](https://cdn.discordapp.com/attachments/1090706198686343248/1095224506223710269/golden.png)
